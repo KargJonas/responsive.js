@@ -21,11 +21,10 @@
 ```
 
 ### Info
-> In addition to the tags, you can use the constant booleans `isMobile` and `isDesktop`. I think those are fairly self-explanatory.<br />
-> The "horizontal" and "vertical" conditions are updated on window resize.<br />
-> The "mobile" and "desktop" conditions are only checked upon load of the library.<br />
-> Tags are hidden using css `display: none` and unhidden using `display: block`.<br />
-> The library is tiny and can be easily modified to fit your needs.<br />
-<br />
+> In addition to the tags, you can use the constant booleans `isMobile` and `isDesktop`. I think those are fairly self-explanatory.<br /><br />
+> The "horizontal" and "vertical" conditions are updated on window resize.<br /><br />
+> The "mobile" and "desktop" conditions are only checked upon load of the library.<br /><br />
+> Tags are hidden using css `display: none` and unhidden using `display: block`.<br /><br />
+> The library is tiny and can be easily modified to fit your needs.<br /><br />
 
 ### Happy coding!
